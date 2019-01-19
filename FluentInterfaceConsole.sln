@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentInterfaceConsole", "FluentInterfaceConsole.csproj", "{47D375FA-0625-493C-9003-9343A577C3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D375FA-0625-493C-9003-9343A577C3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D375FA-0625-493C-9003-9343A577C3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D375FA-0625-493C-9003-9343A577C3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D375FA-0625-493C-9003-9343A577C3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {355D5366-AEE5-44C7-8481-7CD23F226BF1}
+	EndGlobalSection
+EndGlobal
